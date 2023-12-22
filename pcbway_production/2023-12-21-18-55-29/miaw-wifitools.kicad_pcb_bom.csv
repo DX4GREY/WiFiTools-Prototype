@@ -1,0 +1,6 @@
+﻿designator,quantity,value,pack,mpn,mount_type
+"A, B, DOWN, UP",4,SW_PUSH_6mm,SW_PUSH_6mm,,tht
+Display,1,oled,oled,,tht
+OTAK LU TAROH SINI,1,Wemos-D1-mini,wemos-d1-mini-connectors-only,,tht
+"R1, R2",2,Resistor,Resistor,,tht
+VIN,1,Power 5V,Power 5V,,smt
